@@ -1,3 +1,9 @@
+/*
+Challenge 1
+Analyze the annual distribution of male and female managers across various departments,
+beginning in 1990, and compare the respective numbers.
+*/
+
 use employees_mod;
 SELECT 
     d.dept_name,
