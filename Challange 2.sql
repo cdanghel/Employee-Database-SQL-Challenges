@@ -1,3 +1,9 @@
+/*
+Challenge 2
+Analyze and contrast the mean salaries of female and male employees across the
+entire company up until the year 2002, while incorporating a filter that enables
+department-specific comparisons.
+*/
 use employees_mod;
 SELECT 
     e.gender,
